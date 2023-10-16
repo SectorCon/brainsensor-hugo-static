@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="DHZC_Logo_positiv_rgb"
+   width="205"
+   height="99.622002"
+   viewBox="0 0 205 99.622"
+   version="1.1"
+   sodipodi:docname="dhzc.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs45" />
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="3.0919133"
+     inkscape:cx="289.6265"
+     inkscape:cy="49.96906"
+     inkscape:window-width="3840"
+     inkscape:window-height="2050"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="DHZC_Logo_positiv_rgb" />
+  <path
+     id="Pfad_1"
+     data-name="Pfad 1"
+     d="m 120.806,69.555 26.6,-43.646 a 0.66,0.66 0 0 0 -0.566,-1.005 h -31.12 a 0.658,0.658 0 0 0 -0.664,0.664 v 3.825 a 0.658,0.658 0 0 0 0.664,0.664 h 23.047 l -26.532,43.647 a 0.66,0.66 0 0 0 0.566,1.005 h 34.079 a 0.423,0.423 0 0 0 0.42,-0.42 v -4.324 a 0.423,0.423 0 0 0 -0.42,-0.42 h -26.074 z"
+     fill="#002552" />
+  <path
+     id="Pfad_2"
+     data-name="Pfad 2"
+     d="M 28.8,30.916 C 22.921,25.899 16.84,24.903 9.381,24.903 H 0.664 A 0.658,0.658 0 0 0 0,25.567 v 48.478 a 0.658,0.658 0 0 0 0.664,0.664 h 8.581 c 7.8,0 13.745,-0.986 19.69,-6.277 a 24.012,24.012 0 0 0 8.122,-18.567 c 0,-7.273 -2.577,-14.067 -8.259,-18.958 z M 25.3,64.41 c -4.559,4.3 -9.645,5.154 -15.727,5.154 H 5.545 V 30.057 h 4.032 c 5.877,0 10.9,0.791 15.453,4.822 A 19.645,19.645 0 0 1 31.5,49.806 19.516,19.516 0 0 1 25.291,64.4 Z"
+     fill="#002552" />
+  <path
+     id="Pfad_3"
+     data-name="Pfad 3"
+     d="m 204.086,29.491 a 0.7,0.7 0 0 0 -0.273,-0.547 23.315,23.315 0 0 0 -14.156,-4.539 c -15.873,0 -25.791,11.851 -25.791,25.6 0,13.749 10,25.206 25.791,25.206 a 24.88,24.88 0 0 0 14.149,-4.544 0.68,0.68 0 0 0 0.283,-0.547 v -4.665 a 0.665,0.665 0 0 0 -1.1,-0.5 20.712,20.712 0 0 1 -13.491,5.33 c -11.861,0 -19.7,-9.8 -19.7,-20.481 0,-10.681 7.683,-20.481 19.573,-20.481 a 20.42,20.42 0 0 1 13.618,5.291 0.666,0.666 0 0 0 1.113,-0.488 v -4.635 z"
+     fill="#002552" />
+  <g
+     id="Gruppe_1"
+     data-name="Gruppe 1"
+     transform="translate(56.727)">
+    <rect
+       id="Rechteck_1"
+       data-name="Rechteck 1"
+       width="5.5450001"
+       height="74.719002"
+       rx="0.67000002"
+       transform="translate(0,24.903)"
+       fill="#ea5451"
+       x="0"
+       y="0" />
+    <rect
+       id="Rechteck_2"
+       data-name="Rechteck 2"
+       width="5.5450001"
+       height="74.719002"
+       rx="0.67000002"
+       transform="translate(29.999)"
+       fill="#7a868c"
+       x="0"
+       y="0" />
+    <rect
+       id="Rechteck_3"
+       data-name="Rechteck 3"
+       width="5.5450001"
+       height="16.605"
+       rx="0.68000001"
+       transform="translate(15.004,41.547)"
+       fill="#002552"
+       x="0"
+       y="0" />
+  </g>
+</svg>
